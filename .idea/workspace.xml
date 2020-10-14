@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ec5c7e4-a4e6-4c4b-bcde-4c0f4ff57730" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ipHJVsaKKs1m2hDybdtxzpk0c1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ec5c7e4-a4e6-4c4b-bcde-4c0f4ff57730" name="Default Changelist" comment="" />
+      <created>1602597541480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602597541480</updated>
+      <workItem from="1602597542524" duration="791000" />
+      <workItem from="1602598484188" duration="24000" />
+      <workItem from="1602598526692" duration="38000" />
+      <workItem from="1602659174414" duration="9425000" />
+      <workItem from="1602671911178" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-948" y="413" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602668315007">
+      <screen x="-1080" y="-185" width="1080" height="1880" />
+    </state>
+    <state x="-948" y="413" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1080.-185.1080.1880/0.0.1920.1040@-1080.-185.1080.1880" timestamp="1602668315007" />
+    <state x="-775" y="556" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602598436066">
+      <screen x="-1080" y="-185" width="1080" height="1880" />
+    </state>
+    <state x="-775" y="556" key="#com.intellij.fileTypes.FileTypeChooser/-1080.-185.1080.1880/0.0.1920.1040@-1080.-185.1080.1880" timestamp="1602598436066" />
+    <state x="585" y="94" key="CommitChangelistDialog2" timestamp="1602671728193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="94" key="CommitChangelistDialog2/-1080.-185.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1602671728193" />
+    <state x="569" y="384" key="FileChooserDialogImpl" timestamp="1602671687373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-760" y="509" key="FileChooserDialogImpl/-1080.-185.1080.1880/0.0.1920.1040@-1080.-185.1080.1880" timestamp="1602599438035" />
+    <state x="569" y="384" key="FileChooserDialogImpl/-1080.-185.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1602671687373" />
+    <state x="838" y="417" key="Github.ShareDialog" timestamp="1602671604090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="417" key="Github.ShareDialog/-1080.-185.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1602671604090" />
+    <state x="790" y="240" key="RollbackChangesDialog" timestamp="1602671803069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="240" key="RollbackChangesDialog/-1080.-185.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1602671803069" />
+    <state x="73" y="323" key="SettingsEditor" timestamp="1602671949307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1039" y="399" key="SettingsEditor/-1080.-185.1080.1880/0.0.1920.1040@-1080.-185.1080.1880" timestamp="1602598173563" />
+    <state x="73" y="323" key="SettingsEditor/-1080.-185.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1602671949307" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602671757673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1080.-185.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1602671757673" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1602598527623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/-1080.-185.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1602598527623" />
+    <state x="811" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1602671642556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/-1080.-185.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1602671642556" />
+    <state x="774" y="414" key="git4idea.ui.GitResetDialog" timestamp="1602671838635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="414" key="git4idea.ui.GitResetDialog/-1080.-185.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1602671838635" />
+  </component>
+</project>
